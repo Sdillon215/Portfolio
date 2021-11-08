@@ -10,3 +10,6 @@ export const Top5 = require('./top5.png');
 export const Weekender = require('./weekender.png');
 export const Horiseon = require('./horiseon.jpg');
 export const EZBudget = require('./EZbudget.png');
+export const DeepThoughts = require('./deep-thoughts.png');
+export const TechBlog = require('./tech-blog.png');
+export const IG = require('./instagram.png');

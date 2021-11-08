@@ -1,7 +1,8 @@
 import React from 'react';
 import {
   Github,
-  LinkedIn
+  LinkedIn,
+  IG
 } from '../../assets/images';
 
 const Footer = () => {
@@ -18,6 +19,11 @@ const Footer = () => {
                     <li>
                         <a href="https://www.linkedin.com/in/seandillon215/" target="_blank">
                             <img src={LinkedIn} alt="linkedin logo" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/taco_sendz/" target="_blank">
+                            <img src={IG} alt="linkedin logo" />
                         </a>
                     </li>
                 </ul>

@@ -2,9 +2,10 @@ import React from 'react';
 import {
     Herobg,
     Weekender,
-    Top5,
+    TechBlog,
     Horiseon,
-    EZBudget
+    EZBudget,
+    DeepThoughts
 } from '../../assets/images';
 
 const Projects = () => {
@@ -32,6 +33,18 @@ const Projects = () => {
             git: "https://github.com/Sdillon215/easy-budget",
             image: EZBudget,
             text: "EZ Budget"
+        },
+        {
+            site: "https://rocky-ridge-17665.herokuapp.com/",
+            git: "https://github.com/Sdillon215/deep-thoughts",
+            image: DeepThoughts,
+            text: "Deep Thoughts"
+        },
+        {
+            site: "https://limitless-harbor-51312.herokuapp.com/",
+            git: "https://github.com/Sdillon215/Tech-blog",
+            image: TechBlog,
+            text: "Tech Blog"
         }
     ];
 
