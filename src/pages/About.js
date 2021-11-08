@@ -28,9 +28,9 @@ const About = () => {
                     About Me
                 </h2>
                 <p>
-                    My name is Sean Dillon and I am a Full-Stack Web Developer as well as a Data Analyst.
+                    My name is Sean Dillon and I am a Full-Stack Web Developer as well as a Database Administrator.
                     I was drawn to this field of work by the ability to work remotely and the freedom that allows.
-                    My introduction to Web developement and Data Analysis started with a boot camp through The University of
+                    My introduction to Web developement and Database Administration started with a boot camp through The University of
                     Utah.
                     As I am learning new skills and technologies I am finding a passion in the creative proccess of building web
                     applications.
