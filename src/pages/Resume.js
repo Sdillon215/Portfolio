@@ -22,17 +22,13 @@ const Resume = () => {
                         </ul>
                         <p className="title">Education</p>
                         <ul className="resume-list">
-                            <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
-                                <li>Wilton High School</li>
-                            </a>
-                            <a href="https://www.silvermineart.org/">
-                                <li>Silvermine School of Arts</li>
-                            </a>
+                                <li>School</li>
+                                <li>Other school</li>
                         </ul>
                         <p className="title">Experience</p>
                         <ul className="resume-list">
-                            <li>Student Technology Intern for Wilton School District</li>
-                            <li>Babysitter</li>
+                            <li>Code</li>
+                            <li>More code</li>
                         </ul>
                         <p className="title">Extracurriculars</p>
                         <ul className="resume-list">
