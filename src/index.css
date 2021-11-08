@@ -81,6 +81,7 @@ footer address ul {
   border-radius: 15px;
   text-shadow: none;
 }
+
 /* hero style */
 
 .hero {
@@ -113,6 +114,10 @@ footer address ul {
   border-radius: 15px;
 }
 
+.top {
+  margin: 20px auto 20px auto;
+}
+
 .title {
   text-align: center;
   color: var(--tertiary-color);
@@ -130,6 +135,10 @@ footer address ul {
 }
 
 /* work style */
+
+.work {
+  margin: 20px auto 20px auto;
+}
 
 .work-cards {
   display: flex;
@@ -152,22 +161,18 @@ footer address ul {
   margin: 15px auto 0 auto;
 }
 
-#card-1 img {
-  width: 100%;
-  height: auto;
-}
-
 .photo-text {
   position: relative;
   text-align: center;
   color: var(--tertiary-color);
 }
 
-.card a {
+.photo-text a {
   text-decoration: none;
 }
 
 /* media queries */
+
 /* break @1100 */
 
 @media screen and (max-width: 1158px) {
@@ -188,6 +193,7 @@ footer address ul {
 }
 
 /* break @842 */
+
 @media screen and (max-width: 843px) {
   .hero {
     width: 95%;
