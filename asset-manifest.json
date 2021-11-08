@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7f90d9a7.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e05d3488.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e05d3488.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.ac0e3cb6.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.ac0e3cb6.js.map",
+    "static/js/2.505d16d4.chunk.js": "/react-portfolio/static/js/2.505d16d4.chunk.js",
+    "static/js/2.505d16d4.chunk.js.map": "/react-portfolio/static/js/2.505d16d4.chunk.js.map",
+    "static/js/3.bb48c2da.chunk.js": "/react-portfolio/static/js/3.bb48c2da.chunk.js",
+    "static/js/3.bb48c2da.chunk.js.map": "/react-portfolio/static/js/3.bb48c2da.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.5dacb28394d741084d000c7505b96b04.js": "/react-portfolio/precache-manifest.5dacb28394d741084d000c7505b96b04.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.7f90d9a7.chunk.css.map": "/react-portfolio/static/css/main.7f90d9a7.chunk.css.map",
+    "static/js/2.505d16d4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.505d16d4.chunk.js.LICENSE.txt",
+    "static/media/EZbudget.png": "/react-portfolio/static/media/EZbudget.8cbfa7db.png",
+    "static/media/deep-thoughts.png": "/react-portfolio/static/media/deep-thoughts.6f41288a.png",
+    "static/media/hero-bg.jpg": "/react-portfolio/static/media/hero-bg.3adfa0c7.jpg",
+    "static/media/horiseon.jpg": "/react-portfolio/static/media/horiseon.ab66cae3.jpg",
+    "static/media/outer-limits-2.jpg": "/react-portfolio/static/media/outer-limits-2.499a5fcf.jpg",
+    "static/media/portrait.jpg": "/react-portfolio/static/media/portrait.9ccbc1f8.jpg",
+    "static/media/taco-sedona.jpg": "/react-portfolio/static/media/taco-sedona.69fc993c.jpg",
+    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.6db479c7.png",
+    "static/media/top5.png": "/react-portfolio/static/media/top5.00fb9fdd.png",
+    "static/media/tuolumne.jpg": "/react-portfolio/static/media/tuolumne.f70ef796.jpg",
+    "static/media/weekender.png": "/react-portfolio/static/media/weekender.bc4f7663.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0e3cb6.js",
+    "static/js/2.505d16d4.chunk.js",
+    "static/css/main.7f90d9a7.chunk.css",
+    "static/js/main.e05d3488.chunk.js"
+  ]
+}
