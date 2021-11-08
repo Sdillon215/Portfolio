@@ -22,7 +22,7 @@ function App() {
           <div className="container">
             <Switch>
               <Route exact path="/" component={About} />
-              <Route exact path="/Portfolio" component={Portfolio} />
+              <Route exact path="/Portfoliocd" component={Portfolio} />
               <Route exact path="/Contact" component={Contact} />
               <Route exact path="/Resume" component={Resume} />
 
