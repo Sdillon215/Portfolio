@@ -43,13 +43,13 @@ header h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-header a {
+.header-link {
   text-decoration: none;
   color: var(--tertiary-color);
   font-style: normal;
 }
 
-header nav ul, footer address ul {
+header ul, footer address ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -61,20 +61,26 @@ footer address ul {
   justify-content: center;
 }
 
-header nav ul li a {
+.tab {
   padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-header nav ul li a:hover {
+.tab:hover {
   background: var(--primary-color);
   color: var(--secondary-color);
   border-radius: 15px;
   text-shadow: none;
 }
 
+.active {
+  background: var(--primary-color);
+  color: var(--secondary-color);
+  border-radius: 15px;
+  text-shadow: none;
+}
 /* hero style */
 
 .hero {
