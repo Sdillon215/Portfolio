@@ -5,7 +5,8 @@ import {
     TechBlog,
     Horiseon,
     EZBudget,
-    DeepThoughts
+    DeepThoughts,
+    Top5
 } from '../../assets/images';
 
 const Projects = () => {
@@ -45,6 +46,12 @@ const Projects = () => {
             git: "https://github.com/Sdillon215/Tech-blog",
             image: TechBlog,
             text: "Tech Blog"
+        },
+        {
+            site: "https://serene-harbor-24165.herokuapp.com/",
+            git: "https://github.com/Sdillon215/Top-5",
+            image: Top5,
+            text: "Top 5"
         }
     ];
 
