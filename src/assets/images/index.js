@@ -13,3 +13,4 @@ export const EZBudget = require('./EZbudget.png');
 export const DeepThoughts = require('./deep-thoughts.png');
 export const TechBlog = require('./tech-blog.png');
 export const IG = require('./instagram.png');
+export const DataVerse = require('./dataVerse.png');

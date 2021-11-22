@@ -6,11 +6,18 @@ import {
     Horiseon,
     EZBudget,
     DeepThoughts,
-    Top5
+    Top5,
+    DataVerse
 } from '../../assets/images';
 
 const Projects = () => {
     const work = [
+        {
+            site: "https://gentle-temple-58806.herokuapp.com/",
+            git: "https://github.com/Zunaty/dataverse",
+            image: DataVerse,
+            text: "DataVerse"
+        },
         {
             site: "https://sdillon215.github.io/run-buddy/",
             git: "https://github.com/Sdillon215/run-buddy",
