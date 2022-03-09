@@ -102,6 +102,7 @@ footer address ul {
   height: 275px;
   width: 275px;
   object-fit: cover;
+  image-orientation:initial;
   margin: 20px auto 20px auto;
 }
 
