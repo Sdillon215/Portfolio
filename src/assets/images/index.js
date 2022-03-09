@@ -1,4 +1,4 @@
-export const Portrait = require('./portrait.jpg');
+export const Portrait = require('./portrait-chess.jpg');
 export const Tuolumne = require('./tuolumne.jpg');
 export const Docs = require('./docs.png');
 export const Github = require('./github.png');
