@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.610b1388.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.0aa8f8c0.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.0aa8f8c0.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.08ae2408.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.08ae2408.js.map",
+    "static/js/2.505d16d4.chunk.js": "/react-portfolio/static/js/2.505d16d4.chunk.js",
+    "static/js/2.505d16d4.chunk.js.map": "/react-portfolio/static/js/2.505d16d4.chunk.js.map",
+    "static/js/3.e0663abc.chunk.js": "/react-portfolio/static/js/3.e0663abc.chunk.js",
+    "static/js/3.e0663abc.chunk.js.map": "/react-portfolio/static/js/3.e0663abc.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.cae5f9ce0c47db12736582b0dda65f7e.js": "/react-portfolio/precache-manifest.cae5f9ce0c47db12736582b0dda65f7e.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.610b1388.chunk.css.map": "/react-portfolio/static/css/main.610b1388.chunk.css.map",
+    "static/js/2.505d16d4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.505d16d4.chunk.js.LICENSE.txt",
+    "static/media/EZbudget.png": "/react-portfolio/static/media/EZbudget.8cbfa7db.png",
+    "static/media/dataVerse.png": "/react-portfolio/static/media/dataVerse.ee223559.png",
+    "static/media/deep-thoughts.png": "/react-portfolio/static/media/deep-thoughts.6f41288a.png",
+    "static/media/hero-bg.jpg": "/react-portfolio/static/media/hero-bg.3adfa0c7.jpg",
+    "static/media/horiseon.jpg": "/react-portfolio/static/media/horiseon.ab66cae3.jpg",
+    "static/media/outer-limits-2.jpg": "/react-portfolio/static/media/outer-limits-2.499a5fcf.jpg",
+    "static/media/portrait-chess.jpg": "/react-portfolio/static/media/portrait-chess.117423a0.jpg",
+    "static/media/taco-sedona.jpg": "/react-portfolio/static/media/taco-sedona.69fc993c.jpg",
+    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.6db479c7.png",
+    "static/media/top-5-screenshot.png": "/react-portfolio/static/media/top-5-screenshot.e3a08693.png",
+    "static/media/tuolumne.jpg": "/react-portfolio/static/media/tuolumne.f70ef796.jpg",
+    "static/media/weekender.png": "/react-portfolio/static/media/weekender.bc4f7663.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ae2408.js",
+    "static/js/2.505d16d4.chunk.js",
+    "static/css/main.610b1388.chunk.css",
+    "static/js/main.0aa8f8c0.chunk.js"
+  ]
+}
